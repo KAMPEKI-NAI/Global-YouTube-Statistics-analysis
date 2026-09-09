@@ -46,20 +46,20 @@ Global YouTube Statistics dataset. Key columns used across this analysis:
 ## Approach
 
 - **Analysis**: Python (pandas, matplotlib, seaborn) — data cleaning, calculated fields (e.g., earnings-per-subscriber, view-to-subscriber ratio, channel age buckets), correlation analysis, grouped comparisons.
-- **Dashboard**: Google Looker Studio — one page per question, with bar charts, scatter plots, a geo map, and cross-page filters (`category`, `country`, `channel_type`) for interactive exploration.
-- **Reporting**: Word document (`Problem_Solution_Report.docx`) pairing each question with its approach and blank sections for findings/recommendations, filled in after analysis.
+- **Dashboard**: Google Looker Studio — one page dashboard, with bar charts, scatter plots, a geo map, and cross-page filters (`category`, `country`, `channel_type`) for interactive exploration.
+- **Reporting**: Word document (`Problem_Solution_Report.docx`) 
 
 ## Project Files
 
 - `Problem_Report.docx` — Full narrative problem report (background, objectives, scope, methodology).
-- `Problem_Solution_Report.docx` — Question-by-question template with analytical approach and fill-in-the-blank findings/recommendations.
+- `Problem_Solution_Report.docx` — Question-by-question template with analytical approach.
 - `analysis.py` / notebook — Python code for each of the six questions (correlation, grouping, visualization).
 - Looker Studio dashboard — https://datastudio.google.com/reporting/33f0bb1b-5353-4a0a-9559-ef5d4ad0edae.
 
 ## Status
 
-Analysis in progress. Findings and recommendations are being added to the report and
-dashboard as each question is completed.
+Analysis complete.
+dashboard complete.
 
 ## Author
 
