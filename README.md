@@ -51,10 +51,10 @@ Global YouTube Statistics dataset. Key columns used across this analysis:
 
 ## Project Files
 
-- `Problem_Report.docx` — Full narrative problem report (background, objectives, scope, methodology).
+- `Problem_Report.pdf` — Full narrative problem report (background, objectives, scope, methodology).
 - `Problem_Solution_Report.docx` — Question-by-question template with analytical approach.
 - `analysis.py` / notebook — Python code for each of the six questions (correlation, grouping, visualization).
-- Looker Studio dashboard — https://datastudio.google.com/reporting/33f0bb1b-5353-4a0a-9559-ef5d4ad0edae.
+- Looker Studio dashboard — https://datastudio.google.com/s/tNY6GYGhvjg
 
 ## Status
 
